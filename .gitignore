@@ -5,3 +5,4 @@ src/worker/version.worker.ts
 instruct.txt
 .env
 src/main/test2.ts
+.idea
