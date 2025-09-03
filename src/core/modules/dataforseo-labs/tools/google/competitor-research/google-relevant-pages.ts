@@ -8,7 +8,7 @@ export class GoogleDomainCompetitorsTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_relevant_pages';
+    return 'd4seolabs_google_relevant_pages';
   }
 
   getDescription(): string {

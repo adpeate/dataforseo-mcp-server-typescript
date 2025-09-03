@@ -8,7 +8,7 @@ export class GoogleKeywordsSuggestionsTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_keyword_suggestions';
+    return 'd4seolabs_google_keyword_suggestions';
   }
 
   getDescription(): string {

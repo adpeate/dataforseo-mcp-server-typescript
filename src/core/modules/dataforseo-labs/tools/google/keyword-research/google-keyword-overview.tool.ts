@@ -8,7 +8,7 @@ export class GoogleKeywordOverviewTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_keyword_overview';
+    return 'd4seolabs_google_keyword_overview';
   }
 
   getDescription(): string {

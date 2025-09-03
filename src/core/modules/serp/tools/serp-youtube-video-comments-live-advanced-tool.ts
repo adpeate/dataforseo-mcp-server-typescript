@@ -8,7 +8,7 @@ export class SerpYoutubeVideoCommentsLiveAdvancedTool extends BaseTool {
     }
 
     getName(): string {
-        return 'serp_youtube_video_comments_live_advanced';
+        return 'serp_youtube_video_comments_live_adv';
     }
 
     getDescription(): string {

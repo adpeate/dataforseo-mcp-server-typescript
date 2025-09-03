@@ -8,7 +8,7 @@ export class GoogleDomainIntersectionsTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_domain_intersection';
+    return 'd4seolabs_google_domain_intersection';
   }
 
   getDescription(): string {

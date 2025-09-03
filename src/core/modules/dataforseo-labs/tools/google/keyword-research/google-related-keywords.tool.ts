@@ -8,7 +8,7 @@ export class GoogleRelatedKeywordsTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_related_keywords';
+    return 'd4seolabs_google_related_keywords';
   }
 
   getDescription(): string {

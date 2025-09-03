@@ -14,7 +14,7 @@ export class SerpYoutubeLocationsListTool extends BaseTool {
   }
 
   getDescription(): string {
-    return 'Utility tool to get list of available locations for: serp_youtube_organic_live_advanced, serp_youtube_video_info_live_advanced, serp_youtube_video_comments_live_advanced, serp_youtube_video_subtitles_live_advanced.';
+    return 'Utility tool to get list of available locations for: serp_youtube_organic_live_advanced, serp_youtube_video_info_live_advanced, serp_youtube_video_comments_live_adv, serp_youtube_video_subtitles_live_advanced.';
   }
 
   getParams(): z.ZodRawShape {

@@ -8,7 +8,7 @@ export class GoogleRankedKeywordsTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_ranked_keywords';
+    return 'd4seolabs_google_ranked_keywords';
   }
 
   getDescription(): string {

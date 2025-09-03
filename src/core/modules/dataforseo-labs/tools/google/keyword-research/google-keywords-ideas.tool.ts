@@ -8,7 +8,7 @@ export class GoogleKeywordsIdeasTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_keyword_ideas';
+    return 'd4seolabs_google_keyword_ideas';
   }
 
   getDescription(): string {

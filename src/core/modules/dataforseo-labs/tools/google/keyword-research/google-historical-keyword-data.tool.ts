@@ -8,7 +8,7 @@ export class GoogleHistoricalKeywordDataTool extends BaseTool {
   }
 
   getName(): string {
-    return 'dataforseo_labs_google_historical_keyword_data';
+    return 'd4seolabs_google_historical_keyword_data';
   }
 
   getDescription(): string {
